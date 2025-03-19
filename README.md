@@ -7,4 +7,4 @@ This can be achieved by making the **constructor private** and providing a **sta
 
 
 ## Factory
- The Factory Method separates product construction code from the code that actually uses the product. Therefore it’s easier to extend the product construction code independently from the rest of the code.
+The Factory Method separates product construction code from the code that actually uses the product. Therefore it’s easier to extend the product construction code independently from the rest of the code.
