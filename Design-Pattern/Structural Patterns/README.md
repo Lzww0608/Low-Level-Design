@@ -38,3 +38,7 @@ The Bridge pattern attempts to solve this problem by switching from inheritance 
 Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
 
 Using the Composite pattern makes sense only when the core model of your app can be represented as a tree.
+
+
+## Decorator
+Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
