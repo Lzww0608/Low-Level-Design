@@ -45,3 +45,7 @@ Decorator is a structural design pattern that lets you attach new behaviors to o
 
 ## Facade
 Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+
+## Flyweight
+Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+
