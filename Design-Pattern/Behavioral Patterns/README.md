@@ -28,3 +28,7 @@ Strategy: Define a series of algorithms, encapsulate them individually, and make
 Template Method: Define the skeleton of an algorithm in an operation, while deferring some steps to subclasses.
 
 Visitor: Represents an operation to be performed on the elements of an object structure
+
+
+# Iterator
+Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
