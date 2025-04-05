@@ -39,3 +39,6 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 
 # Strategy
 Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+
+# Command 
+Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
