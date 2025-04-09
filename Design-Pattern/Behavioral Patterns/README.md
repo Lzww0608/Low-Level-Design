@@ -52,3 +52,6 @@ Template Method is a behavioral design pattern that defines the skeleton of an a
 
 # Visitor
 Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
+
+# Mediator
+Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
