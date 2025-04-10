@@ -55,3 +55,7 @@ Visitor is a behavioral design pattern that lets you separate algorithms from th
 
 # Mediator
 Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+
+# Memento
+Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+
