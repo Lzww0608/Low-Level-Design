@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parking_lot_demo.dir/demo.cc.o CMakeFiles/parking_lot_demo.dir/ParkingLot.cc.o CMakeFiles/parking_lot_demo.dir/ParkingSpot.cc.o CMakeFiles/parking_lot_demo.dir/Vehicle.cc.o -o parking_lot_demo 

@@ -1,0 +1,3 @@
+/home/haider/Work/Lzww/practice/Low-Level-Design/Solutions/cpp/parkinglot/build/CMakeFiles/parking_lot_demo.dir
+/home/haider/Work/Lzww/practice/Low-Level-Design/Solutions/cpp/parkinglot/build/CMakeFiles/edit_cache.dir
+/home/haider/Work/Lzww/practice/Low-Level-Design/Solutions/cpp/parkinglot/build/CMakeFiles/rebuild_cache.dir
