@@ -11,7 +11,23 @@
 
 ### Class —— Account
 
-
++------------------------------------------------------------+  
+|      Account                                               | // 类名  
++------------------------------------------------------------+  
+| - accountNumber: std::string                               | // private成员变量  
+| - pin: std::string                                         |  
+| - balance: double                                          |  
++------------------------------------------------------------+  
+| + Account(accountNumber: std::string, pin: std::string,    | // public构造函数 
+|  balance: double)                                          |  
+| + getAccountNumber() const : std::string                   |  
+| + validatePin(const std::string&): bool                    |  
+| + withdraw(double) bool                                    |  
+| + deposit(double) bool                                     |
+| + getBalance() const : double                              |
+| + displayBalance() const                                   |
++------------------------------------------------------------+  
 
 
 ### Class —— ATM
+
