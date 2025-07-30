@@ -8,7 +8,7 @@ public:
     Account(const std::string& accountNumer, const std::string& pin, double balance = 0.0);
     ~Account() = default;
     std::string getAccountNumber() const;
-    std::string getBalance() const;
+    double getBalance() const;
     bool validatePin(const std::string& inputPin) const;
 
     bool deposit(double amount);
