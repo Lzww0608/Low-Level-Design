@@ -10,6 +10,7 @@
 
 ## Implementations
 #### [C++ Implementation](../Solutions/cpp/trafficsignalsystem/)
+#### [Go Implementation](../Solutions/golang/trafficsigna/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Signal** enum represents the different states of a traffic light: red, yellow, and green.
