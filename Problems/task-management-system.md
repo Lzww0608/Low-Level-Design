@@ -11,6 +11,7 @@
 
 ## Implementations
 #### [C++ Implementation](../solutions/cpp/taskmanagementsystem/)
+#### [Golang Implementation](../solutions/golang/taskmanagementsystem/)
 
 ## Classes, Interfaces and Enumerations
 1. The **User** class represents a user in the task management system, with properties such as id, name, and email.
