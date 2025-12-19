@@ -11,6 +11,7 @@
 
 ## Implementations
 #### [C++ Implementation](../solutions/cpp/coffeevendingmachine/)
+#### [Golang Implementation](../solutions/golang/coffeevendingmachine/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Coffee** class represents a coffee type with its name, price, and recipe (ingredients and their quantities).
